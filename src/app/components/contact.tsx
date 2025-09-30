@@ -97,7 +97,7 @@ export default function ContactSection() {
         <button
           type="submit"
           disabled={loading}
-          className="bg-green-600 hover:bg-green-700 active:bg-green-800 active:scale-95 transition-transform text-white px-6 py-3 rounded-md font-medium w-full disabled:opacity-50"
+          className="bg-[#007B33] hover:bg-green-800 active:bg-green-800 active:scale-95 transition-transform text-white px-6 py-3 rounded-md font-medium w-full disabled:opacity-50"
         >
           {loading ? "Sending..." : "Send Message"}
         </button>
