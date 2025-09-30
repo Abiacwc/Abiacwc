@@ -18,7 +18,7 @@ export default function Footer() {
             Phone:{" "}
             <a
               href="tel:08032317925"
-              className="font-medium text-gray-100 hover:text-yellow-300 no-underline transition-colors"
+              className="font-medium text-gray-100 hover:text[#960A0A] no-underline transition-colors"
             >
               08032317925
             </a>
@@ -27,7 +27,7 @@ export default function Footer() {
             Email:{" "}
             <a
               href="mailto:inquiries@abiacwc.com"
-              className="font-medium text-gray-100 hover:text-yellow-300 no-underline transition-colors"
+              className="font-medium text-gray-100 hover:text-[#960A0A] no-underline transition-colors"
             >
               inquiries@abiacwc.com
             </a>
