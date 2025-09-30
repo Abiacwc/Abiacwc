@@ -2,6 +2,7 @@ import HeroSection from "./components/herosection";
 import AboutSection from "./components/about";
 import Wholecenter from "./components/wholecenter";
 import Newsletter from "./components/newsteller";
+import Contact from "./components/contact";
 // import Video from "./components/video";
 import "./globals.css"
 
@@ -12,6 +13,7 @@ export default function Home() {
         <AboutSection />
         <Wholecenter />
         <Newsletter />
+        <Contact />
         {/* <Video /> */}
     </>
   );
