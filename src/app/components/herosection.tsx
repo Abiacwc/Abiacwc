@@ -43,7 +43,7 @@ export default function Home() {
       </main>
 
       {/* Bottom Section */}
-      <section className="relative flex flex-col border-black border-8 items-center md:items-end justify-end text-center md:text-right md:px-20 lg:px-80 px-1 py-6">
+      <section className="relative flex flex-col items-center md:items-end justify-end text-center md:text-right md:px-20 lg:px-80 px-1 py-6">
         {/* Background watermark logos */}
         <div
           className="absolute inset-0 opacity-5"
