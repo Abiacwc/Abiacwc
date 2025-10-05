@@ -7,10 +7,20 @@ export default function Wholecenter() {
   const [isExpanded, setIsExpanded] = useState(false);
 
   const shortText =
-  "KCH-AQUA Pharmaceutical Investments Limited is an indigenous pharmaceutical investment company, specializing in pharmaceutical products distribution and management; design; construction and equipment of manufacturing plants.";
+  "At KCHAqua Consortium, we are committed to transforming the healthcare landscape in Abia State by developing a world-class pharmaceutical hub that meets international standards. 
+Our vision is to create a structured and regulated environment that promotes innovation, collaboration, and excellence in the pharmaceutical industry. Through our partnership with the Abia State Government, we aim to improve public health outcomes, stimulate economic growth, and enhance the overall quality of life for the people of Abia State.
+";
     
   const fullText =
-  "KCH-AQUA Pharmaceutical Investments Limited is an indigenous pharmaceutical investment company, specializing in pharmaceutical products distribution and management; design; construction and equipment of manufacturing plants. At KCHAqua Consortium, we are committed to transforming the healthcare landscape in Abia State by developing a world-class pharmaceutical hub that meets international standards. Our vision is to create a structured and regulated environment that promotes innovation, collaboration, and excellence in the pharmaceutical industry. Through our partnership with the Abia State Government, we aim to improve public health outcomes, stimulate economic growth, and enhance the overall quality of life for the people of Abia State.";
+  "At KCHAqua Consortium, we are committed to transforming the healthcare landscape in Abia State by developing a world-class pharmaceutical hub that meets international standards. 
+Our vision is to create a structured and regulated environment that promotes innovation, collaboration, and excellence in the pharmaceutical industry. Through our partnership with the Abia State Government, we aim to improve public health outcomes, stimulate economic growth, and enhance the overall quality of life for the people of Abia State.
+
+We are introducing a new and innovative approach to pharmaceutical development, one that prioritizes safety, quality, and efficiency.
+We are working closely with the Abia State Government, stakeholders, and industry experts to ensure the success of the project.
+
+We are committed to delivering a world-class pharmaceutical hub that meets international standards and exceed expectations.
+
+Join us in our mission to transform healthcare in Abia State. Learn more about our project, partnership opportunities, and how you can be a part of this exciting journey@ abiacwc.com ";
 
   return ( 
     <section className="relative bg-[#6C545433] overflow-hidden px-6 md:px-16 py-12">
@@ -55,7 +65,6 @@ export default function Wholecenter() {
           >
             About <br />
             KCH-AQUA <br />
-            Pharmaceutical <br />
             Investments <br />
             Limited
           </motion.h2>
