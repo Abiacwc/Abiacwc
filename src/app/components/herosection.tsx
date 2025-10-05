@@ -37,7 +37,7 @@ export default function Home() {
             className="text-6xl sm:text-6xl md:text-6xl lg:text-8xl font-extrabold leading-tight drop-shadow-lg justify-center items-center tracking-tight"
           >
             Abia Coordinated <br />
-            Wholesale Center <br /> (ACWC)
+            Wholesale Center <br /> (CWC)
           </motion.h1>
         </section>
       </main>
